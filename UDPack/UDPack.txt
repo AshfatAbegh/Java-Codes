@@ -1,0 +1,13 @@
+
+
+1. Divide the files into two categories based on their content.
+	- Create two folders/packages for the two categories.
+	- One for the classes and other for the interfaces.
+	- Put the files into the folders according to their category.
+	
+2. Declare the package for each of the files.
+	- use the keyword 'package'.
+	
+3. Import required files where necessary.
+	- use the keyword 'import'.
+	
